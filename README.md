@@ -1,10 +1,19 @@
-# Programação Orientada a Objetos
+# Programação orientada a objetos
 
-Aqui aprendemos sobre programação estruturada e POO, conceitos básicos, classe e objeto, escapsulamento, herança e polimorfismo.
+> Exploramos os conceitos de Abstração, Encapsulamento, Herança e Polimorfismo de modo totalmente prático.
 
+## :information_source: Sobre
 
+- Diferenças entre programação estruturada e POO
+- O que é função utilitária e conceitos básicos
+- O que é classe e objeto e primeiros passos no código
+- Qual a necessidade de encapsulamento
+- Implementando encapsulamento na classe
+- O que é Herança
+- Como aplicar polimorfismo
 
-## :computer: Sobre mim
+## :information_source: Mais sobre isso
 
-:small_blue_diamond: [Linkedin](https://www.linkedin.com/in/valeriocesar/)
+- Criado durante meus estudos no bootcamp everis New Talents #2 Java.
+- Agradecimentos ao [Rodrigo Tavares](https://github.com/rodrigogts) pelas aulas.
 
